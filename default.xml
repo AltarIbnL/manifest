@@ -49,8 +49,8 @@
         name="RxAndroid"
         group="android,rx"
         path="lib/RxAndroid"
-        remote="rx"
-        revision="2.x" />
+	remote="rx"
+	revision="2.x" />
 
     <!-- OkHttp -->
     <project
